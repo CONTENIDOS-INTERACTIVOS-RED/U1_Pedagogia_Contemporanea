@@ -42,7 +42,7 @@
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
-                p <strong>Anexo. </strong> Viabilidad económica.
+                p <strong>Anexo. </strong> Fundamentos del ABP
     
           .col-lg-5
             figure(data-aos="zoom-in")
@@ -122,7 +122,7 @@
     .bg-full-width.bg-color-6.mb-5
       .row.justify-content-center.align-items-center
         .col-lg-12
-          .row.justify-content-center.align-items-center
+          .row.justify-content-center.align-items-center.p-4.p-lg-0
             .col-lg-7(data-aos="fade-left").order-2
               ul.lista-ul--color
                 li.mb-0.d-flex

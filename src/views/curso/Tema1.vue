@@ -237,22 +237,22 @@
           .col-lg-8.mb-3.mb-lg-0
             SlyderF(columnas="col-12 col-lg-6")
               .bg-color-white.h-100.shadow-app
-                img(src='@/assets/curso/tema1/20.png' alt='AvatarTop' , style="max-width: 295px").mx-auto.mb-3
+                img(src='@/assets/curso/tema1/20.png' alt='AvatarTop' , style="max-width: 330px").mx-auto.mb-3
                 p.text-center La observación y el análisis.
               .bg-color-white.h-100.shadow-app
-                img(src='@/assets/curso/tema1/21.png' alt='AvatarTop' , style="max-width: 295px").mx-auto.mb-3
+                img(src='@/assets/curso/tema1/21.png' alt='AvatarTop' , style="max-width: 330px").mx-auto.mb-3
                 p.text-center La comunicación verbal y no verbal.
               .bg-color-white.h-100.shadow-app
-                img(src='@/assets/curso/tema1/22.png' alt='AvatarTop' , style="max-width: 295px").mx-auto.mb-3
+                img(src='@/assets/curso/tema1/22.png' alt='AvatarTop' , style="max-width: 330px").mx-auto.mb-3
                 p.text-center El trabajo en equipo.
               .bg-color-white.h-100.shadow-app
-                img(src='@/assets/curso/tema1/23.png' alt='AvatarTop' , style="max-width: 295px").mx-auto.mb-3
+                img(src='@/assets/curso/tema1/23.png' alt='AvatarTop' , style="max-width: 330px").mx-auto.mb-3
                 p.text-center La toma de decisiones.
               .bg-color-white.h-100.shadow-app
-                img(src='@/assets/curso/tema1/24.png' alt='AvatarTop' , style="max-width: 295px").mx-auto.mb-3
+                img(src='@/assets/curso/tema1/24.png' alt='AvatarTop' , style="max-width: 330px").mx-auto.mb-3
                 p.text-center El respeto por las ideas ajenas.
               .bg-color-white.h-100.shadow-app
-                img(src='@/assets/curso/tema1/25.png' alt='AvatarTop' , style="max-width: 295px").mx-auto.mb-3
+                img(src='@/assets/curso/tema1/25.png' alt='AvatarTop' , style="max-width: 330px").mx-auto.mb-3
                 p.text-center La capacidad de asombro y reflexión.
     
           .col-lg-4
