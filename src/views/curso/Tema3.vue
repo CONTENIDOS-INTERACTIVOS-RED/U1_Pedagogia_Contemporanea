@@ -433,29 +433,19 @@ export default {
           {
             id: 3,
             texto:
-              'La mediación en un conflicto tiene como objetivo principal:',
+              'Las situaciones problema en el ABP infantil deben presentarse como un reto que despierte la curiosidad del niño y lo motive a investigar.',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
               {
                 id: 'a',
-                texto: 'Imponer una solución rápida',
+                texto: 'Falso',
                 esCorrecta: false,
               },
               {
                 id: 'b',
-                texto: 'Facilitar el diálogo entre las partes',
+                texto: 'Verdadero',
                 esCorrecta: true,
-              },
-              {
-                id: 'c',
-                texto: 'Determinar la culpabilidad',
-                esCorrecta: false,
-              },
-              {
-                id: 'd',
-                texto: 'Ignorar las preocupaciones de una parte',
-                esCorrecta: false,
               },
             ],
             mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
