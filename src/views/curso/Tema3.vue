@@ -492,7 +492,7 @@ export default {
               {
                 id: 'c',
                 texto: 'Actividades ligadas al juego y la exploración',
-                esCorrecta: false,
+                esCorrecta: true,
               },
               {
                 id: 'd',
