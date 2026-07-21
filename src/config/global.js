@@ -1,7 +1,7 @@
 export default {
   global: {
     numeroUnidad: '1',
-    tituloUnidad: 'Pedagogía contemporánea',
+    tituloUnidad: 'Orientaciones para el aprendizaje y la enseñanza',
   },
   menuPrincipal: {
     menu: [
